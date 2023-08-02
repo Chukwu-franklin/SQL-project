@@ -1,6 +1,6 @@
 # SQL-project
 # Analysis-of-cars-from-Cars45.com
-## by Oluchukwu Onyemaenu
+## by Franklin Chukwueke
 
 
 ## About Cars45.com
